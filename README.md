@@ -1,0 +1,1 @@
+just completed the explore menu section (10:15 12/12/2023)
