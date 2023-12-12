@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.custom-nav-link
+{
+    color:#323f4b !important;
+    font-family:"Roboto";
+}
+.food-munch-logo
+{
+    height:55px;
+    width:55px;
+}
+.banner-section-bg-container
+{
+    height:90vh;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size:cover;
+}
+.banner-heading
+{
+    font-family:"Roboto";
+    font-size:45px;
+    font-weight:300px;
+    color:white;
+}
+.banner-caption
+{
+    color:#f5f7fa;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:300px;
+}
+.custom-button
+{
+    height:45px;
+    width:130px;
+    color:white;
+    background-color: #d0b200;
+    border-width:0;
+    border-radius:8px;
+    margin-right:10px;
+}
+.custom-outline-button
+{
+    height:45px;
+    width:130px;
+    color:#d0b200;
+    background-color:transparent;
+    border-radius:8px;
+    border-width:1px;
+    border-color:#d0b200;
+    border-style:solid;
+}
+.wcu-section{
+    background-color:#f9fbfe;
+}
+.wcu-section-heading
+{
+    font-family:"Roboto";
+    font-weight:700;
+    font-size:28px;
+    color:#183b5b;
+}
+.wcu-section-description
+{
+    font-family:"Roboto";
+    font-size:16px;
+    color:#5a7184;
+}
+.wcu-card
+{
+    text-align:center;
+    background-color:white;
+    border-style: solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius:16px;
+}
+.wcu-card-image{
+    height:90px;
+    width:87px;
+}
+.wcu-card-title
+{
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:22px;
+    color:#323f4b;
+}
+.wcu-card-description
+{
+    font-family:"Roboto";
+    font-size:16px;
+    color:#7b8794;
+}
+.offers{
+    font-weight:600;
+    color:#323f4b;
+    font-style:italic;
+}
+.explore-menu-section
+{
+    background-color:white;
+}
+.explore-menu-heading
+{
+    font-family:"Roboto";
+    font-weight:700;
+    font-size:28px;
+    color:#182b56;
+}
+.explore-menu-item-image
+{
+    border-radius:16px;
+    width:290px;
+    height:304px;
+}
+.explore-menu-item-title
+{
+    color:#323f4b;
+    font-weight:500;
+    font-size:18px;
+    margin-top:24px;
+    font-family:"Roboto";
+}
+.explore-menu-item-link
+{
+    color:#d0b200;
+    font-weight:500;
+    font-size:14px;
+    font-family:"Roboto";
+}
+.explore-menu-item-card
+{
+    border-radius:8px;
+}
