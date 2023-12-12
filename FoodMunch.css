@@ -133,3 +133,79 @@
 {
     border-radius:8px;
 }
+.healthy-food-section
+{
+    color:#f9fbfe;
+}
+.healthy-food-section-image
+{
+    width:270px;
+    margin-left:10px
+}
+.healthy-food-section-heading
+{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.healthy-food-section-description 
+{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.custom-button
+{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.deliverAndPayment-section-image
+{
+    width:270px;
+    margin-left:10px;
+}
+.deliverAndPayment-section-heading
+{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.deliverAndPayment-section-description 
+{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.ThanksGiving-section
+{
+    background:#d0b2001a;;
+}
+.ThanksGiving-section-heading
+{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.ThanksGiving-section-description 
+{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
